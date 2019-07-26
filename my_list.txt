@@ -1,0 +1,6 @@
+"Charmander"
+"Charmeleon"
+"Charizard"
+"Bagon"
+"Shelgo"
+"Salamance"
